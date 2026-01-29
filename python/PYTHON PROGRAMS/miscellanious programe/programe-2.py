@@ -1,0 +1,6 @@
+x=int(input('enter any integer:'))
+y=int(input('enter any integer:'))
+d=(x/y)
+print('the quotent is:',d)
+a=(x%y)
+print('thereminder is:',a)

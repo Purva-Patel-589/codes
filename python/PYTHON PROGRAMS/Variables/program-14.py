@@ -1,0 +1,5 @@
+b1=int(input('Enter the value of base 1 in trapezoid‎‎'))
+b2=int(input('Enter the value of base 2 in trapezoid‎‎'))
+h=int(input('Enter the value of height in trapezoid‎‎'))
+a=1/2*h*(b1+b2)
+print('the area oftrapezoid‎',a)

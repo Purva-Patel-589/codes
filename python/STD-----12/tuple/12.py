@@ -1,0 +1,6 @@
+La=(1,2,3,5,4,2)
+Lb=(1,2,3,4,5,6)
+A=sum(La)
+B=sum(Lb)
+print("Mean La",A/len(La))
+print("Mean Lb",B/len(Lb))

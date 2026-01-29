@@ -1,0 +1,5 @@
+p=int(input('enter the value of p:'))
+r=int(input('enter the value of r:'))
+t=int(input('enter the value of t:'))
+a=p*(1+r*t)
+print(a)
