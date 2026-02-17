@@ -1,0 +1,5 @@
+x=(input('Enter your name:'))
+y=(input('Enter your address,with city,state,ZIP:'))
+z=int(input('Enter your telephone number:'))
+w=(input('Enter your college major:'))
+print('My name is',x,'I live at',y,'My telephone number is',z,'My college major is',w)
